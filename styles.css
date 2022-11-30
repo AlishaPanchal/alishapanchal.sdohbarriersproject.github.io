@@ -1,11 +1,18 @@
+h1 {
+  text-decoration: underline;
+  font-family: papyrus;
+}
 h2 {
   font-family: papyrus;
+  text-decoration: underline;
 }
 h3 {
   font-family: papyrus;
+  text-decoration: underline;
 }
 h4 {
   font-family: papyrus;
+  text-decoration: underline;
 }
 html {
   background-color: #E5E4E2;
