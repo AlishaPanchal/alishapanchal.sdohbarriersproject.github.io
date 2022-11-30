@@ -1,1 +1,26 @@
-
+h2 {
+  font-family: papyrus;
+}
+h3 {
+  font-family: papyrus;
+}
+h4 {
+  font-family: papyrus;
+}
+html {
+  background-color: #E5E4E2;
+}
+figcaption {
+  text-align: center;
+  font-style: italic;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
