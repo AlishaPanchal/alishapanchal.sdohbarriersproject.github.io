@@ -35,3 +35,6 @@ p {
   max-width: auto;
   margin: auto;
 }
+figure.keyterm1 {
+  text-align: left;
+}
